@@ -34,5 +34,17 @@ item2/Pizza.java
  item2.Pizza
  item2.Pizza$Builder
  item2.Pizza$Topping
+item9/SecondError.java
+ item9.SecondError
 item6/example.java
  item6.example
+item7/Stack.java
+ item7.Stack
+item9/AppRunner1.java
+ item9.AppRunner1
+item9/MyResource.java
+ item9.MyResource
+item9/AppRunner.java
+ item9.AppRunner
+item9/FirstError.java
+ item9.FirstError
